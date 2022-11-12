@@ -1,3 +1,29 @@
+header {
+  text-align: center;
+}
+
+figure {
+  text-align: center;
+}
+
+a {
+  left padding: 10px;
+  right padding: 10px;
+  background: grey; 
+} 
+
+section > p {
+  hard width: 80px;
+  text-align: center;
+}
+
+div {
+  float: left;
+  background-color: red;
+  text-align: center;
+  width: 25%;
+}
+
 body {
   width: 100%;
   height: 100%;
